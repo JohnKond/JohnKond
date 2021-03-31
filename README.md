@@ -5,12 +5,3 @@
 - :computer: I'm a fast learner,I like learning new things,and I love coding!
 - 📫 How to reach me: gkontogiorgakes@gmail.com
 
--α
--α
--α
--α
--α
--α
--α
--α
--α-α
