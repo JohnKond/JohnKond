@@ -12,7 +12,7 @@
 
 ### How to contact me 
 
- <img height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<a href="https://www.linkedin.com/in/ioannis-kontogiorgakis-23618a231"><img height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
 
 
 ### Languages and Tools
